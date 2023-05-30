@@ -1,0 +1,22 @@
+1.0.0 : rajoute une icone à coté de celle de déconnexion pour afficher le planning
+1.0.1 : corrections pour Kiwi Browser
+1.0.2 : ignore les activités sans dates
+1.0.3 : calcule les dates manquantes par rapport à la semaine affiché et le jour de la semaine
+1.0.4 : correction "rafraichir les tarifs" puis "activités >" montre le "planning"
+1.0.5 : ignore les activités passées toujours présentes dans "mes réservations à venir" 
+1.0.6 : vérification si la session est toujours active avant d'afficher le planning
+        réservations pour un autre nom/prénom
+        focus login sur click "Mon espace perso"
+        déverrouillage des inputs de "Mon Compte"
+1.0.7 : rajoute BodyAttack CSS
+1.0.8 : correction affichage des résérvations multiple sur un même créneau
+        récupération des activités qui ont le même nom mais pas le même ID
+        suppression des tarifs adultes qui nécessite un moyen de paiement
+1.0.9 : ne recharge pas les activités sur changement de nom/prénom si aucunes réservations n'est présentes
+1.0.10 : comparaison nom/prénom en ignorant la casse
+1.0.11 : correction lorsqu'une activité n'est plus disponible
+         popup de gestion des erreurs
+1.0.12 : rajoute AquaBoxing CSS
+         correction "rafraichir les tarifs"
+1.0.13 : rajoute Step CSS
+1.0.14 : correction calcul de dates

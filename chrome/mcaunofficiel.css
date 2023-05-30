@@ -1,0 +1,65 @@
+.activityButton{padding-right:60px;width:185px;text-align:left}
+.centerLogo{width:50px}
+.checkboxActivityZone,.checkboxPriceZone{float:left}
+.checkboxActivityZone{margin:2px}
+.mcano_center{float:left;margin-right:10px;border-radius:10px;margin:2px;background-color:lightblue}
+.pending{background:yellow!important}
+.planning{width:100%}
+.reservations_count{color:grey}
+.slot td{vertical-align:middle}
+.slot.confirmed .cancel,.slot.pending .cancel{display:block}
+.slot.confirmed .slotStatus,.slot.pending .slotStatus,.slot .cancel{display:none}
+.slot.confirmed{background-color:lightgreen}
+.slot{padding:0 5px;border-radius:5px}
+.slotName.Aquabiking.Bleu{background:#159add;color:white}
+.slotName.Aquabiking.Noir{background:black;color:white}
+.slotName.Aquabiking.Rouge{background:red;color:white}
+.slotName.Aquabiking.Vert{background:#8fdd66;color:white}
+.slotName.Aquaboxing{background:red;color:white}
+.slotName.Aquafitness.Bleu{background:#159add;color:white}
+.slotName.Aquafitness.Noir{background:black;color:white}
+.slotName.Aquafitness.Rouge{background:red;color:white}
+.slotName.Aquafitness.Vert{background:#8fdd66;color:white}
+.slotName.Aquafusion{background:black;color:white}
+.slotName.Bébés.Nageurs{background:lightskyblue}
+.slotName.Bien-être{background:white}
+.slotName.Bodyattack{background:red;color:black;font-weight:bold;text-transform:uppercase;font-family:'sans-serif';font-style:italic}
+.slotName.Bodybalance{background:#8fdd66;color:black;font-weight:bold;text-transform:uppercase;font-family:'sans-serif';font-style:italic}
+.slotName.Bodycombat{background:red;color:black;font-weight:bold;text-transform:uppercase;font-family:'sans-serif';font-style:italic}
+.slotName.Bodypalm{background:red;color:white}
+.slotName.Bodypump{background:red;color:black;font-weight:bold;text-transform:uppercase;font-family:'sans-serif';font-style:italic}
+.slotName.Bodysculpt{background:#159add;color:white;text-transform:capitalize}
+.slotName.Caf.Bleu{background:#159add;color:white}
+.slotName.Danse{background:#159add;color:white;text-transform:uppercase}
+.slotName.Full.Body{background:red;color:white;text-transform:capitalize}
+.slotName.Hbx.Boxing{background:black;color:white;text-transform:uppercase}
+.slotName.Hiit{background:black;color:white}
+.slotName.Pilates{background:#8fdd66;color:white}
+.slotName.Rpm{background:red;color:black;font-weight:bold;text-transform:uppercase;font-family:'sans-serif';font-style:italic}
+.slotName.Step.Bleu{background:#159add;color:white}
+.slotName.Stretching{background:#8fdd66;color:white}
+.slotName.Vélaqua.Rouge{background:red;color:white}
+.slotName.Yoga{background:#159add;color:white}
+.slotName.Zumba{background:#159add;color:white;text-transform:uppercase;font-weight:bold;font-style:italic}
+.slotName{padding:3px 10px 1px 5px;border-radius:4px;text-transform:lowercase;width:100px;display:block;text-align:center}
+.slotStatus,img.cancel{width:20px}
+.today{background-color:lightblue;padding:4px 10px;border-radius:5px}
+#confirmation{text-align:center}
+#iBookFor{white-space:nowrap;float:right;clear:both;margin:5px}
+#iBookForFirstName,#iBookForLastName{border:none;width:100%}
+#mcano_content *{box-sizing:initial}
+#mcano_content a, a:hover, a:visited{color:#354d68;text-decoration:none}
+#mcano_content b{font-weight:bold}
+#mcano_content fieldset{border-radius:5px;border:1px dashed lightskyblue!important;margin-right:2px}
+#mcano_content img{padding:0 20px 2px 0;cursor:pointer}
+#mcano_content td{padding:2px}
+#mcano_content{margin:0;font-size:14px;font-weight:normal;font-family: "Gilroy", Arial, sans-serif;background-color:rgb(215, 246, 255);color:#354d68}
+#reservationZone{white-space:nowrap;padding:0 0 20px 0}
+#reservationsZone{clear:both}
+#reservationsZone .confirmed.even{background-color:lightblue}
+#reservationsZone .confirmed.odd{background-color:lightskyblue}
+#reservationsZone table{width:100%}
+#reservationsZone td{padding:0 5px}
+#reservationsZone tr{border-radius:5px}
+#tabs{font-family:monospace;white-space:nowrap}
+#validate{display:none;margin-left:5px}
